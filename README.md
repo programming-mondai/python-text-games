@@ -8,43 +8,43 @@
 ## 収録ゲーム（順次追加予定）
 
 - **ハイアンドローゲーム**  
-  コード: [`./highlow_game/`](./highlow_game/)  
+  コード: [`./ハイアンドローゲーム/`](./ハイアンドローゲーム/)  
   解説: <https://programming-mondai.com/top/python_top/l2-s1/>
 
 - **数字当てゲーム**  
-  コード: [`./guess_number/`](./guess_number/)  
+  コード: [`./数字当てゲーム/`](./数字当てゲーム/)  
   解説: <https://programming-mondai.com/top/python_top/l2-s2/>
 
 - **じゃんけんゲーム**  
-  コード: [`./janken/`](./janken/)  
+  コード: [`./じゃんけんゲーム/`](./じゃんけんゲーム/)  
   解説: <https://programming-mondai.com/top/python_top/l2-s3/>
 
 - **丁半賭博ゲーム（無名関数を使おう）**  
-  コード: [`./chohan/`](./chohan/)  
+  コード: [`./丁半賭博ゲーム/`](./丁半賭博ゲーム/)  
   解説: <https://programming-mondai.com/top/python_top/l3-s1/>
 
 - **石取りゲーム（高階関数を使おう）**  
-  コード: [`./stone_pick/`](./stone_pick/)  
+  コード: [`./石取りゲーム/`](./石取りゲーム/)  
   解説: <https://programming-mondai.com/top/python_top/l3-s2/>
 
 - **宝探しゲーム（リスト・集合を使おう）**  
-  コード: [`./treasure_hunt/`](./treasure_hunt/)  
+  コード: [`./宝探しゲーム/`](./宝探しゲーム/)  
   解説: <https://programming-mondai.com/top/python_top/l4-s1/>
 
 - **ナインゲーム（タプル・辞書を使おう）**  
-  コード: [`./nine_game/`](./nine_game/)  
+  コード: [`./ナインゲーム/`](./ナインゲーム/)  
   解説: <https://programming-mondai.com/top/python_top/l4-s2/>
 
 - **マルバツゲーム（リスト・タプルを使おう）**  
-  コード: [`./tic_tac_toe/`](./tic_tac_toe/)  
+  コード: [`./マルバツゲーム/`](./マルバツゲーム/)  
   解説: <https://programming-mondai.com/top/python_top/l4-s3/>
 
 - **モンスター捕獲ゲーム（オブジェクト指向）**  
-  コード: [`./monster_capture/`](./monster_capture/)  
+  コード: [`./モンスター捕獲ゲーム/`](./モンスター捕獲ゲーム/)  
   解説: <https://programming-mondai.com/top/python_top/l5-s1/>
 
 - **モンスターバトルゲーム（オブジェクト指向）**  
-  コード: [`./monster_battle/`](./monster_battle/)  
+  コード: [`./モンスターバトルゲーム/`](./モンスターバトルゲーム/)  
   解説: <https://programming-mondai.com/top/python_top/l5-s2/>
 
 ---
